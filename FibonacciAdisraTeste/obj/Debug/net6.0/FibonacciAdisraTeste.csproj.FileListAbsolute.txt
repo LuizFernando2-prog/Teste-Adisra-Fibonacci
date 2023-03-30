@@ -1,0 +1,15 @@
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\bin\Debug\net6.0\FibonacciAdisraTeste.exe
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\bin\Debug\net6.0\FibonacciAdisraTeste.deps.json
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\bin\Debug\net6.0\FibonacciAdisraTeste.runtimeconfig.json
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\bin\Debug\net6.0\FibonacciAdisraTeste.dll
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\bin\Debug\net6.0\FibonacciAdisraTeste.pdb
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.csproj.AssemblyReference.cache
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.AssemblyInfoInputs.cache
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.AssemblyInfo.cs
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.csproj.CoreCompileInputs.cache
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.dll
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\refint\FibonacciAdisraTeste.dll
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.pdb
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\FibonacciAdisraTeste.genruntimeconfig.cache
+C:\Users\MrGWo\source\repos\FibonacciAdisraTeste\obj\Debug\net6.0\ref\FibonacciAdisraTeste.dll
